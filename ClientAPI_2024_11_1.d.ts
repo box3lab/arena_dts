@@ -484,9 +484,9 @@ declare enum UITextFontFamily {
     */
     Default = 0,
     /**   
-    * 阿里妈妈方圆体    
+    * 粗圆体    
     */
-    AlimamaFangYuanTi = 1,
+    BoldRound = 1,
     /**    
     *  Code New Roman Bold     
     */
